@@ -4,9 +4,7 @@ import (
 	"image/color"
 	//"time"
   "fmt"
-
 	//"github.com/200sc/go-dist/floatrange"
-
 	"github.com/oakmound/oak"
 	//"github.com/oakmound/oak/collision"
 	//"github.com/oakmound/oak/entities"
